@@ -1,0 +1,8 @@
+PS C:\> mkdir agent ; cd agent
+PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win-x64-2.194.0.zip", "$PWD")
+
+PS C:\agent> .\config.cmd
+
+PS C:\agent> .\run.cmd
+
+arpiq4egzb6dnp4a67keodo3ts5eqz65offlgj4w3nadpts2ovkq

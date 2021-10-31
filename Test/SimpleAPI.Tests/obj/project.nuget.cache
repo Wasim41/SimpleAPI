@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KyC1j5dEtmnrhqXW3ezyTbfX8Fg9M27OU5dqYHAcRcrb3y50DvsSeuTV2n3JYDk3Jku+D0wiJWARx9IV34c7pg==",
+  "dgSpecHash": "Jp8UqGWyUiAcYWdPwR0cBs6IVfHnPHsAv3dCKe0K1PjNZbjeBHPyrFo9CYbQ2pNhxvLw/wcBD3Qi8gg043SCKA==",
   "success": true,
-  "projectFilePath": "F:\\ContinousIntegration\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+  "projectFilePath": "F:\\ContinousIntegration\\test\\simpleapi.tests\\SimpleAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wasim\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\wasim\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
