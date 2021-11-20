@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KyC1j5dEtmnrhqXW3ezyTbfX8Fg9M27OU5dqYHAcRcrb3y50DvsSeuTV2n3JYDk3Jku+D0wiJWARx9IV34c7pg==",
+  "dgSpecHash": "dW77XLSXjd6rh4B1asfoLcwkoHWxWRxmhxQ0iIbTEqTCYpu1wBL6s0QXzhs7jlXetpKhVm74FyB/9zpkFed9iA==",
   "success": true,
   "projectFilePath": "F:\\ContinousIntegration\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
   "expectedPackageFiles": [
