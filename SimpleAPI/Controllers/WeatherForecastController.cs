@@ -30,7 +30,7 @@ namespace SimpleAPI.Controllers
         [HttpGet]
         public ActionResult<string> Get(int id)
         {
-            return "Wasim Shaikh1";
+            return "Wasim Shaikh";
         }
     }
 }
