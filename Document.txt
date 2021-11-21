@@ -6,3 +6,6 @@ PS C:\agent> .\config.cmd
 PS C:\agent> .\run.cmd
 
 arpiq4egzb6dnp4a67keodo3ts5eqz65offlgj4w3nadpts2ovkq
+
+
+Azure URL - https://simpleapiazure1.azurewebsites.net
